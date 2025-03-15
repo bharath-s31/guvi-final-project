@@ -6,7 +6,8 @@ This report presents the implementation, training, and evaluation of a deep lear
 
 ## 2. Model Architecture
 
-The `DiseaseClassifier` model is a custom CNN inspired by AlexNet, with additional batch normalization layers for better stability. The model consists of:
+The [DiseaseClassifier](https://drive.google.com/file/d/1r4cOGfVRX2u9GaJ0N1mHhw37s1Z-9uhT/view?usp=sharing)
+ model is a custom CNN inspired by AlexNet, with additional batch normalization layers for better stability. The model consists of:
 
 ### Feature Extraction Layers:
 
